@@ -15,6 +15,7 @@ Além da pesquisa teórica, o projeto também explora o uso de IA generativa par
 - criação de resumos e glossários;
 - apoio na interpretação de dados econômicos e demográficos.
 
+![NotebookLM](./images/VisãoNotebookLM.jpg)
 ---
 
 # 🎯 Objetivos de Estudos
