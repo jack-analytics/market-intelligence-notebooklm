@@ -4,9 +4,9 @@ Caderno temático utilizando NotebookLM, IA generativa e dados públicos (IBGE/S
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do desafio prático da DIO com foco no uso do NotebookLM como ferramenta de aprendizagem ativa.
+Este projeto foi desenvolvido como parte do desafio prático do meu Curso de Phyton da DIO com foco no uso do NotebookLM como ferramenta de aprendizagem ativa.
 
-O objetivo principal foi estudar como dados públicos disponibilizados pelo Banco Central do Brasil (SGS) e pelo IBGE (SIDRA) podem ser utilizados em análises de Inteligência de Mercado, comportamento de consumo e tomada de decisão estratégica.
+O objetivo principal do meu projeto é estudar como dados públicos disponibilizados pelo Banco Central do Brasil (SGS) e pelo IBGE (SIDRA) podem ser utilizados em análises de Inteligência de Mercado, comportamento de consumo e tomada de decisão estratégica.
 
 Além da pesquisa teórica, o projeto também explorou o uso de IA generativa para:
 - síntese de conteúdos;
