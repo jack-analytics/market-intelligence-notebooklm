@@ -1,6 +1,6 @@
 # market-intelligence-notebooklm
 Caderno temático utilizando NotebookLM, IA generativa e dados públicos (IBGE/SIDRA e BACEN/SGS) para estudos em Inteligência de Mercado e análise estratégica.
-# 📊 Caderno Temático — Inteligência de Mercado com IA e Dados Públicos
+# 📊 Inteligência de Mercado com IA e Dados Públicos
 
 ## 📌 Sobre o Projeto
 
