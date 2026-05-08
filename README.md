@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do desafio prático do meu Curso de Phy
 
 O objetivo principal do meu projeto é estudar como dados públicos disponibilizados pelo Banco Central do Brasil (SGS) e pelo IBGE (SIDRA) podem ser utilizados em análises de Inteligência de Mercado, comportamento de consumo e tomada de decisão estratégica.
 
-Além da pesquisa teórica, o projeto também explorou o uso de IA generativa para:
+Além da pesquisa teórica, o projeto também explora o uso de IA generativa para:
 - síntese de conteúdos;
 - estruturação de estudos;
 - engenharia de prompts;
@@ -17,7 +17,7 @@ Além da pesquisa teórica, o projeto também explorou o uso de IA generativa pa
 
 ---
 
-# 🎯 Objetivos de Estudo
+# 🎯 Objetivos de Estudos
 
 - Compreender a estrutura do SGS (Banco Central) e SIDRA (IBGE);
 - Aprender a localizar séries temporais e indicadores públicos;
@@ -40,6 +40,8 @@ Além da pesquisa teórica, o projeto também explorou o uso de IA generativa pa
 ## Documentações e Materiais Técnicos
 - https://apisidra.ibge.gov.br/home/ajuda
 - https://bacendata.com/docs
+
+## Diversos links de videoaulas retiradas do Youtube
 
 ---
 
@@ -73,7 +75,7 @@ Foi necessário especificar:
 ---
 
 ## Prompt 3
-"Crie um fluxo de análise utilizando SIDRA + SGS + Power BI."
+"Crie um fluxo de análise utilizando SIDRA + SGS + Phyton/Power BI."
 
 ### Resultado:
 A IA estruturou um pipeline analítico com:
